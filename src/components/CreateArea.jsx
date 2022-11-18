@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Note from "./Note";
 import MapsUgcRoundedIcon from '@mui/icons-material/MapsUgcRounded';
 import Fab from '@mui/material/Fab';
 import Zoom from '@mui/material/Zoom';
